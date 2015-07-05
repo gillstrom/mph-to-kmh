@@ -1,0 +1,35 @@
+{
+  "name": "mph-to-kmh",
+  "version": "1.0.0",
+  "description": "Convert mph to km/h.",
+  "license": "MIT",
+  "repository": "gillstrom/mph-to-kmh",
+  "author": {
+    "email": "andreasgillstrom@gmail.com",
+    "name": "Andreas Gillström",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "convert",
+    "hour",
+    "kilometres",
+    "kilometers",
+    "kmh",
+    "kph",
+    "miles",
+    "mph",
+    "per"
+  ],
+  "devDependencies": {
+    "ava": "^0.0.4"
+  }
+}
